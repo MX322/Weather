@@ -22,8 +22,8 @@ namespace WeatherAPI
     static public class Data
     {
         // User
-        private const string username = "mx____";
-        private const string password = "aqtU1F4X18";
+        private const string username = "username";
+        private const string password = "password";
 
         static public Weather GetData(string param) // Receive temperature data from https://meteomatics.com
         {
